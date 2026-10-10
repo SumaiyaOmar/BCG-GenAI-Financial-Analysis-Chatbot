@@ -1,0 +1,81 @@
+BCG FINANCIAL CHATBOT — TEST RESULTS
+
+Testing Method: Manual testing using the VS Code terminal
+Dataset: Financial_Data_2023_2025.csv
+Companies: Apple, Microsoft, Tesla
+Years: 2023–2025
+
+--------------------------------------------------
+
+TEST 1 — TOTAL REVENUE
+
+Question: What is the total revenue?
+Company: Apple
+Year: 2025
+
+Expected Output:
+Apple's total revenue in 2025 was $416,161 million.
+
+Result: PASS
+
+--------------------------------------------------
+
+TEST 2 — NET INCOME
+
+Question: What is the net income?
+Company: Microsoft
+Year: 2025
+
+Expected Output:
+Microsoft's net income in 2025 was $101,832 million.
+
+Result: PASS
+
+--------------------------------------------------
+
+TEST 3 — NET INCOME CHANGE
+
+Question: How has net income changed over the last year?
+Company: Tesla
+Year: 2025
+
+Expected Output:
+Tesla's net income decreased by $3,298 million (46.11%) from 2024 to 2025.
+
+Result: PASS
+
+--------------------------------------------------
+
+TEST 4 — OPERATING CASH FLOW
+
+Question: What is the operating cash flow?
+Company: Microsoft
+Year: 2025
+
+Expected Output:
+Microsoft's operating cash flow in 2025 was $136,162 million.
+
+Result: PASS
+
+--------------------------------------------------
+
+TEST 5 — NET PROFIT MARGIN
+
+Question: What is the net profit margin?
+Company: Apple
+Year: 2025
+
+Expected Output:
+Apple's net profit margin in 2025 was 26.92%.
+
+Result: PASS
+
+--------------------------------------------------
+
+TESTING SUMMARY
+
+Total predefined queries tested: 5
+Successful tests: 5
+Failed tests: 0
+
+All five predefined financial queries returned the expected results during manual testing.
