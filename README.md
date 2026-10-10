@@ -116,3 +116,13 @@ The chatbot supports only Microsoft, Tesla, and Apple for 2023–2025. It does n
 ## Acknowledgment
 
 Completed independently as part of the **BCG Generative AI Job Simulation hosted on Forage**. This project is a learning simulation and does not represent employment at BCG.
+
+## Certification
+
+**BCG GenAI Job Simulation — Forage**
+
+**Completed:** October 10, 2026
+
+Successfully completed a virtual job simulation focused on financial data analysis and rule-based chatbot development using Python and pandas.
+
+**Skills:** Python Programming, Financial Analysis, Data Extraction, Data Science Tools, Excel, Logical Thinking, and AI Development.
